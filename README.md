@@ -1,4 +1,4 @@
-# Praktikum Kompresi Citra: Lossy (SVD) & Lossless (WebP)
+# Praktikum Kompresi Gambar Lossy (SVD) & Lossless (WebP)
 
 Repositori ini memuat implementasi tugas praktikum kelompok mengenai kompresi citra digital menggunakan pendekatan *Lossy* dan *Lossless*. Algoritma ini ditulis menggunakan bahasa pemrograman Python dalam format Jupyter Notebook.
 
